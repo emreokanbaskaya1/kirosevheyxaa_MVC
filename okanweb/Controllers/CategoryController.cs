@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using okanweb.Data;
-using okanweb.Models;
+using Okan.DataAccess.Data;
+using Okan.Models;
 
 namespace okanweb.Controllers
 {

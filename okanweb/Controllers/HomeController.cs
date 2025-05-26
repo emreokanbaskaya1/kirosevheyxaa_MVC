@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using okanweb.Models;
+using Okan.Models;
 using System.Diagnostics;
 
 namespace okanweb.Controllers

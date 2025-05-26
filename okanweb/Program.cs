@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using okanweb.Data;
+using Okan.DataAccess.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
